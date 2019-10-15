@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.757
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CubeSTM32F103W5500", "CubeSTM32F103W5500.vcxproj", "{420581CC-05F6-45BF-B9A7-F8D35EBAFDD6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|VisualGDB = Debug|VisualGDB
+		Release|VisualGDB = Release|VisualGDB
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{420581CC-05F6-45BF-B9A7-F8D35EBAFDD6}.Debug|VisualGDB.ActiveCfg = Debug|VisualGDB
+		{420581CC-05F6-45BF-B9A7-F8D35EBAFDD6}.Debug|VisualGDB.Build.0 = Debug|VisualGDB
+		{420581CC-05F6-45BF-B9A7-F8D35EBAFDD6}.Release|VisualGDB.ActiveCfg = Release|VisualGDB
+		{420581CC-05F6-45BF-B9A7-F8D35EBAFDD6}.Release|VisualGDB.Build.0 = Release|VisualGDB
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {603939E6-0D53-48B6-8F6F-AF4F74B112A3}
+	EndGlobalSection
+EndGlobal
